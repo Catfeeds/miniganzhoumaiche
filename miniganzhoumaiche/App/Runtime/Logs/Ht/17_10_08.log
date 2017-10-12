@@ -1,0 +1,367 @@
+[ 2017-10-08T15:32:06+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/More/setup.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `lr_program` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2017-10-08T15:32:37+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/More/setup.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0037s ]
+NOTIC: [8] Undefined index: validate F:\phpStudy\WWW\miniganzhoumaiche\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\phpStudy\WWW\miniganzhoumaiche\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `id` FROM `lr_program` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `lr_program` SET `title`='赣州买车',`logo`='',`describe`='赣州买车',`shop_name`='世纪名车',`shop_address`='天涯海角',`service_wx`='weixin',`tel`='0200202002',`copyright`='Copyright © 2017',`location_x`='110.699511',`location_y`='21.35708',`uptime`='1507447957' WHERE ( id=1 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-10-08T15:32:39+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/More/setup.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `lr_program` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001373s ]
+
+[ 2017-10-08T15:33:30+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/Baidumap/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2017-10-08T15:33:39+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/More/setup.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0035s ]
+NOTIC: [8] Undefined index: validate F:\phpStudy\WWW\miniganzhoumaiche\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\phpStudy\WWW\miniganzhoumaiche\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT `id` FROM `lr_program` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `lr_program` SET `title`='赣州买车',`logo`='',`describe`='赣州买车',`shop_name`='世纪名车',`shop_address`='天涯海角',`service_wx`='weixin',`tel`='0200202002',`copyright`='Copyright © 2017',`location_x`='113.373888',`location_y`='22.936824',`uptime`='1507448019' WHERE ( id=1 ) [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-10-08T15:33:41+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/More/setup.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001305s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `lr_program` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005133s ]
+
+[ 2017-10-08T17:41:55+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/Product/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+NOTIC: [8] Undefined index: id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 14 行.
+NOTIC: [8] Undefined index: shop_id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 15 行.
+NOTIC: [8] Undefined index: type F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 18 行.
+NOTIC: [8] Undefined index: tuijian F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 19 行.
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: page F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 32 行.
+SQL: SELECT * FROM `lr_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0038s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0039s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_attr_spec_price_store` [ RunTime:0.0034s ]
+SQL: SELECT `attr_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="4" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_attr_value` [ RunTime:0.0205s ]
+SQL: SELECT `name` FROM `lr_attr_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `attr_id` FROM `lr_attr_value` WHERE ( name="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_attribute` [ RunTime:0.0041s ]
+SQL: SELECT `attr_name` FROM `lr_attribute` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `attr_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_attr_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `attr_id` FROM `lr_attr_value` WHERE ( name="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `attr_name` FROM `lr_attribute` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `attr_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_attr_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `attr_id` FROM `lr_attr_value` WHERE ( name="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `attr_name` FROM `lr_attribute` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="4" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_spec_value` [ RunTime:0.0054s ]
+SQL: SELECT `spec_value` FROM `lr_spec_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `spec_id` FROM `lr_spec_value` WHERE ( spec_value="" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `lr_spec` [ RunTime:0.0052s ]
+SQL: SELECT `spec_name` FROM `lr_spec` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `spec_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_value` FROM `lr_spec_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_id` FROM `lr_spec_value` WHERE ( spec_value="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_name` FROM `lr_spec` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_value` FROM `lr_spec_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_id` FROM `lr_spec_value` WHERE ( spec_value="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_name` FROM `lr_spec` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `price_yh` FROM `lr_attr_spec_price_store` WHERE ( pid="4" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `price_yh` FROM `lr_attr_spec_price_store` WHERE ( pid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `price_yh` FROM `lr_attr_spec_price_store` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2017-10-08T17:42:01+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/User/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+NOTIC: [8] Undefined index: type F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\UserController.class.php 第 11 行.
+NOTIC: [8] Undefined index: id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\UserController.class.php 第 12 行.
+NOTIC: [8] Undefined index: tel F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\UserController.class.php 第 13 行.
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\UserController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\UserController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `lr_user` [ RunTime:0.0053s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_user` WHERE ( 1=1 ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: page F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\UserController.class.php 第 26 行.
+SQL: SELECT * FROM `lr_user` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001742s ]
+
+[ 2017-10-08T17:42:07+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/Product/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+NOTIC: [8] Undefined index: id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 14 行.
+NOTIC: [8] Undefined index: shop_id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 15 行.
+NOTIC: [8] Undefined index: type F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 18 行.
+NOTIC: [8] Undefined index: tuijian F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 19 行.
+NOTIC: [8] Undefined index: name F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0042s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: page F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 32 行.
+SQL: SELECT * FROM `lr_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0044s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0039s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lr_attr_spec_price_store` [ RunTime:0.0041s ]
+SQL: SELECT `attr_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="4" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_attr_value` [ RunTime:0.0038s ]
+SQL: SELECT `name` FROM `lr_attr_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `attr_id` FROM `lr_attr_value` WHERE ( name="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_attribute` [ RunTime:0.0035s ]
+SQL: SELECT `attr_name` FROM `lr_attribute` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `attr_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `lr_attr_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `attr_id` FROM `lr_attr_value` WHERE ( name="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `attr_name` FROM `lr_attribute` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `attr_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_attr_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `attr_id` FROM `lr_attr_value` WHERE ( name="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `attr_name` FROM `lr_attribute` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `spec_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="4" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lr_spec_value` [ RunTime:0.0044s ]
+SQL: SELECT `spec_value` FROM `lr_spec_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `spec_id` FROM `lr_spec_value` WHERE ( spec_value="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_spec` [ RunTime:0.0033s ]
+SQL: SELECT `spec_name` FROM `lr_spec` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="3" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `spec_value` FROM `lr_spec_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `spec_id` FROM `lr_spec_value` WHERE ( spec_value="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `spec_name` FROM `lr_spec` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `spec_value_id` FROM `lr_attr_spec_price_store` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `spec_value` FROM `lr_spec_value` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `spec_id` FROM `lr_spec_value` WHERE ( spec_value="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `spec_name` FROM `lr_spec` WHERE ( id="" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `price_yh` FROM `lr_attr_spec_price_store` WHERE ( pid="4" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `price_yh` FROM `lr_attr_spec_price_store` WHERE ( pid="3" ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `price_yh` FROM `lr_attr_spec_price_store` WHERE ( pid="1" ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2017-10-08T17:42:10+08:00 ] ::1 /miniganzhoumaiche/index.php/Ht/Product/add.html?id=4&page=0&name=&shop_id=0&tuijian=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\miniganzhoumaiche\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+NOTIC: [8] Undefined index: type F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 91 行.
+NOTIC: [8] Undefined index: submit F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 93 行.
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0045s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `lr_product` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lr_product` WHERE ( id=4 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `tid` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `cid` FROM `lr_product` WHERE ( id="4" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `tid` FROM `lr_category` WHERE ( id="0" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_attr_value` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: attr_value_id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 345 行.
+SQL: SELECT `name` FROM `lr_attr_value` WHERE ( id="0" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: attr_value_id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 346 行.
+SQL: SELECT `attr_id` FROM `lr_attr_value` WHERE ( id="0" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_spec_value` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: spec_value_id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 353 行.
+SQL: SELECT `spec_value` FROM `lr_spec_value` WHERE ( id="0" ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: spec_value_id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 354 行.
+SQL: SELECT `spec_id` FROM `lr_spec_value` WHERE ( id="0" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_brand` [ RunTime:0.0049s ]
+SQL: SELECT `id`,`name` FROM `lr_brand` WHERE ( 1=1 )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `lr_attribute` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `lr_attribute`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `lr_spec` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `lr_spec`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_tag` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `lr_tag`  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: shop_id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 388 行.
+NOTIC: [8] Undefined index: tag_id F:\phpStudy\WWW\miniganzhoumaiche\App\Ht\Controller\ProductController.class.php 第 395 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000279s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Undefined variable: catetwo F:\phpStudy\WWW\miniganzhoumaiche\App\Runtime\Cache\Ht\04b33691f63b9c13a9ceae31ee771556.php 第 68 行.
+NOTIC: [8] Undefined index: attr_value_id F:\phpStudy\WWW\miniganzhoumaiche\App\Runtime\Cache\Ht\04b33691f63b9c13a9ceae31ee771556.php 第 103 行.
+NOTIC: [8] Undefined index: spec_value_id F:\phpStudy\WWW\miniganzhoumaiche\App\Runtime\Cache\Ht\04b33691f63b9c13a9ceae31ee771556.php 第 112 行.
+NOTIC: [8] Undefined index: store F:\phpStudy\WWW\miniganzhoumaiche\App\Runtime\Cache\Ht\04b33691f63b9c13a9ceae31ee771556.php 第 117 行.
+NOTIC: [8] Undefined index: price F:\phpStudy\WWW\miniganzhoumaiche\App\Runtime\Cache\Ht\04b33691f63b9c13a9ceae31ee771556.php 第 165 行.
+NOTIC: [8] Undefined index: price_yh F:\phpStudy\WWW\miniganzhoumaiche\App\Runtime\Cache\Ht\04b33691f63b9c13a9ceae31ee771556.php 第 171 行.
+NOTIC: [8] Undefined index: store F:\phpStudy\WWW\miniganzhoumaiche\App\Runtime\Cache\Ht\04b33691f63b9c13a9ceae31ee771556.php 第 190 行.
+NOTIC: [8] Undefined variable: img_str F:\phpStudy\WWW\miniganzhoumaiche\App\Runtime\Cache\Ht\04b33691f63b9c13a9ceae31ee771556.php 第 235 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001774s ]
+
